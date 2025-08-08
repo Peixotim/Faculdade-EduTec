@@ -4,14 +4,6 @@
 
 -----
 
-## 🔗 Acesso ao Projeto
-
-[](https://shields.io)
-[](https://www.google.com/search?q=/LICENSE)
-[](https://nextjs.org/)
-
------
-
 ## 💡 Sobre o Projeto
 
 A EduTec é uma instituição de ensino que necessitava de uma presença digital robusta para atrair e converter novos alunos para seus cursos técnicos. O objetivo deste projeto foi criar um site que não fosse apenas um catálogo de cursos, mas uma poderosa ferramenta de marketing e vendas.
