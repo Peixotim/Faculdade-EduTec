@@ -58,8 +58,8 @@ Este projeto não apenas "tem" SEO, ele foi *construído* em torno do SEO.
 | **React** | Biblioteca para construção das interfaces de usuário. |
 | **TypeScript** | Superset do JavaScript que adiciona tipagem estática ao código. |
 | **Tailwind CSS** | Framework de CSS utility-first para estilização rápida e moderna. |
-| **[Seu Banco de Dados]** | Ex: **PostgreSQL**, **MongoDB**, **MySQL**. |
-| **[Seu ORM/Client]** | Ex: **Prisma**, **Drizzle ORM**, **Mongoose**. |
+| **PostgreSQL** | Banco de dados relacional de código aberto, robusto e escalável. |
+| **Drizzle ORM** | ORM leve e "SQL-like" para TypeScript, focado em performance e segurança de tipos sem afastar o desenvolvedor do SQL. |
 | **Vercel** | Plataforma de deploy otimizada para projetos Next.js. |
 
 -----
