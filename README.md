@@ -126,4 +126,4 @@ Contribuições são bem-vindas\! Se você tem alguma ideia para melhorar o proj
 
 -----
 
-**Feito com dedicação e muito café por Pedro Peix
+**Feito com dedicação e muito café por Pedro Peixoto.**
